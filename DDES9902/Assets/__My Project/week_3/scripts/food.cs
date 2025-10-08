@@ -11,6 +11,6 @@ public class food : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        tranform.Rotate( Vector3.up ); 
+        transform.Rotate( Vector3.up ); 
     }
 }
